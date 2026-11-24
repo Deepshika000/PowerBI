@@ -1,0 +1,90 @@
+Employee Performance Analysis- Business Requirements Document (BRD)
+1. Project Overview
+Project Name: Employee Performance Analysis
+Project Type: HR Analytics / Data Analytics
+
+Tools & Technologies:
+- Python (Google Colab)
+- Pandas
+- NumPy
+- Microsoft Power BI
+- DAX
+
+Dataset Size: 50,000 employee records after removing completely empty rows.
+
+2. Business Problem Statement
+
+Human Resource (HR) departments manage large amounts of employee information, including job roles, departments, performance scores, education levels, employee demographics, attrition and promotion details.
+Analyzing this information manually can make it difficult to identify workforce patterns and understand employee performance across different departments.
+The organization requires an interactive HR analytics solution to explore employee performance, workforce distribution, attrition patterns and promotion-related trends.
+
+3. Business Objectives
+The main objectives of this project are:
+
+1. Analyze employee distribution across departments and job titles.
+2. Evaluate employee performance using performance scores.
+3. Understand workforce demographics based on gender and education level.
+4. Identify performance patterns across different employee categories.
+5. Analyze employee attrition trends.
+6. Explore employee promotion patterns.
+7. Develop an interactive Power BI dashboard to support HR analysis and decision-making.
+
+4. Stakeholders
+Primary Stakeholder: Human Resources (HR) Department
+
+Other Stakeholders:
+- HR Managers
+- Department Managers
+- Senior Management
+- Business Decision-Makers
+
+5. Business Requirements
+
+Requirement ID -  Business Requirement 
+BR01 | Analyze total employee distribution.
+BR02 | Analyze employees across different departments.
+BR03 | Evaluate employee performance scores.
+BR04 | Analyze workforce distribution by job title.
+BR05 | Explore gender and education-level distribution.
+BR06 | Analyze employee attrition patterns.
+BR07 | Explore employee promotion trends.
+BR08 | Provide interactive filters for employee analysis.
+
+6. Key Business Questions
+
+1. Which department has the highest number of employees?
+2. How are employees distributed across different job titles?
+3. How does employee performance vary across performance score categories?
+4. Which departments have different workforce compositions?
+5. What is the gender distribution across the organization?
+6. What education levels are most common among employees?
+7. What patterns can be identified in employee attrition?
+8. How are employee promotions distributed?
+
+7. Project Scope
+- Employee data cleaning and preprocessing.
+- Exploratory Data Analysis (EDA).
+- Employee performance analysis.
+- Department and job-title analysis.
+- Attrition and promotion analysis.
+- Interactive Power BI dashboard development.
+
+Out of Scope:
+- Predicting future employee performance.
+- Predicting employee resignation.
+- Making individual employee promotion decisions.
+- Evaluating employee performance without appropriate business-approved criteria.
+
+8. Expected Deliverables
+- Cleaned employee dataset.
+- Python data cleaning and analysis notebook.
+- Exploratory Data Analysis.
+- Interactive Power BI dashboard.
+- Business insights and recommendations.
+- GitHub project documentation.
+
+9. Expected Business Value
+The project aims to help HR teams explore employee information, understand workforce distribution, investigate performance patterns and identify areas
+requiring further attention.
+
+The interactive dashboard provides a consolidated view of HR-related metrics to support data-driven discussions and decision-making.
